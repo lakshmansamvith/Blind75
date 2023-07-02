@@ -7,7 +7,8 @@ The LeetCode 75 list comprises 75 carefully selected coding questions that cover
 <h3>Blind 75</h3>
 The Blind 75 list consists of 75 coding questions that are commonly asked by top tech companies during their interview processes. These questions are specifically designed to test problem-solving skills, algorithmic thinking, and knowledge of fundamental data structures. I have solved each problem from this list and documented my solutions in this repository, providing clear explanations and code implementations.
 
-<h3>NeetCode 150</h3>h
+<h3>NeetCode 150</h3>
+<h6>Note:I haven't done Neetcode solutions yet, I plan to go through them.</h6>
 The NeetCode 150 list is a curated collection of 150 LeetCode problems that offer a deeper understanding of advanced data structures and algorithms. These questions are often considered challenging and require a strong grasp of core programming concepts. In this repository, you will find my solutions to the NeetCode 150 problems, accompanied by detailed explanations and optimized code implementations.
 <br/>
 <br/>
