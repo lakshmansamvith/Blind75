@@ -1,5 +1,7 @@
 Welcome to my LeetCode Solutions repository! Here, you will find my solutions to various LeetCode problems, including the LeetCode 75, Blind 75, and NeetCode 150 lists. These lists consist of popular and frequently asked coding questions that are essential for interview preparation.
 
+<h2>I do not prefer writing one liners using LINQ or other resources unless necessary, I find it necessary that the code I write should be self explanatory.</h2>
+
 <h3>LeetCode 75</h3>
 
 The LeetCode 75 list comprises 75 carefully selected coding questions that cover a wide range of data structures and algorithms. These problems are often encountered during technical interviews, and mastering them is crucial for success. In this repository, you will find my solutions to each of these problems, along with explanations and time/space complexity analysis.
