@@ -1,3 +1,4 @@
+//Easy
 using System.Text;
 
 public class Solution

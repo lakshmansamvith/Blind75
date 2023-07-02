@@ -1,3 +1,4 @@
+//Easy
 public class Solution {
     public int gcd(int n1,int n2){
         if (n2 == 0) {
