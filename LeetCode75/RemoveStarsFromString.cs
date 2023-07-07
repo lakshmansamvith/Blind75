@@ -1,17 +1,20 @@
-//Medium
-public class Solution {
-    public string RemoveStars(string s) {
-        StringBuilder sb = new StringBuilder();
+using System.Text;
 
-        foreach(char character in s){
-            if(character == '*'){
-                sb.Length -= 1;
+public class Solution
+{
+    public string RemoveStars(string s)
+    {
+        StringBuilder modified = new StringBuilder();
+        for (var i = 0; i < s.Length; i++)
+        {
+            if (s[i] == '*')
+            {
+                modified.Length = modified.Length - 1;
             }
-            else{
-                sb.Append(c);
+            else { 
+                modified.Append(s[i]);
             }
         }
-
-        return sb.ToString();
+        return modified.ToString(); 
     }
 }
